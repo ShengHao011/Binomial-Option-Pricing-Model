@@ -1,1 +1,2 @@
 # Binomial-Option-Pricing-Model
+This project implements the Binomial Option Pricing Model in Python. The Binomial Model is a popular numerical method for pricing options, which are financial derivatives that give the holder the right (but not the obligation) to buy or sell an asset at a predetermined price before or at the expiration date. This project pulls in data from Yahoo Finance to calculate the volatility. Users are able to specify various parameters including the number of time steps, risk-free rate, strike price, and initial asset price. 
